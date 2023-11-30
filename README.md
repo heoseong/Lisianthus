@@ -1,2 +1,2 @@
 # Lisianthus
-Enhancing the vase life with specific cultivating conditions and predicting the vase life based on petal color senescence of lisianthus cut flower
+Prolonged vase life by salicylic acid treatment and prediction of vase life using petal color senescence of cut lisianthus
